@@ -1,0 +1,42 @@
+{
+  "streams": [
+    {
+      "title": "stream1",
+      "description": "this is a stream",
+      "id": 1
+    },
+    {
+      "title": "Stream 2",
+      "description": "Cool stream about nothing...",
+      "id": 2
+    },
+    {
+      "title": "anotherStream",
+      "description": "another stream",
+      "id": 24
+    },
+    {
+      "title": "onemorestream",
+      "description": "one more stream",
+      "id": 5
+    },
+    {
+      "title": "One more lazy lazy stream",
+      "description": "lazy lazy lazy stream more lazy",
+      "userId": "112095856474958223078",
+      "id": 31
+    },
+    {
+      "title": "Stream do caraças o caraças",
+      "description": "Afinal não é do caraças",
+      "userId": "112095856474958223078",
+      "id": 33
+    },
+    {
+      "title": "MY_STREAM",
+      "description": "local streamming",
+      "userId": "112095856474958223078",
+      "id": 34
+    }
+  ]
+}
